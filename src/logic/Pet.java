@@ -21,7 +21,7 @@ public class Pet {
     public Pet() {
         this.name = "pepito";
         this.race= "rottweiler";
-        this.color= "negro";
+        this.color= "black";
         this.age= 5;
     }
     /**

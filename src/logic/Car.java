@@ -14,6 +14,10 @@ public class Car {
      Constructor por defecto. Inicializa los atributos a valores por defecto.
      */
     public Car() {
+        this.brand = "toyota";
+        this.model = "Hilux";
+        this.year = 2021;
+        this.numberOfDoors = 4;
     }
     /**
      Constructor que inicializa los atributos a los valores pasados como parámetros.

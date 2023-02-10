@@ -2,7 +2,7 @@ package logic;
 
 /**
  * La clase Book representa un libro con título, autor, categoría y número de páginas.
- * @author Ronald serrano 
+ * @author Ronald serrano
  */
 public class Book {
     private String title; // Título del libro
@@ -16,7 +16,7 @@ public class Book {
     public Book() {
         this.title = "Nada";
         this.author = "Carmen Laforet";
-        this.category = "ficcion literaria";
+        this.category = "literary fiction";
         this.numberOfPage = 368;
     }
 
