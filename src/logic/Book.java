@@ -2,6 +2,7 @@ package logic;
 
 /**
  * La clase Book representa un libro con título, autor, categoría y número de páginas.
+ * @author Ronald serrano 
  */
 public class Book {
     private String title; // Título del libro
